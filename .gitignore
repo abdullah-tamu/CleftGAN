@@ -1,0 +1,5 @@
+.idea/
+*/network-snapshot-000460_stylegan3t.pkl
+./network-snapshot-000460_stylegan3t.pkl
+.git/*
+*.pkl
