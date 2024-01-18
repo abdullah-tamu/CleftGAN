@@ -8,7 +8,7 @@ for the requrements.
 Also, please install opencv
 
 # Usage:
-Downlowd the pretrained model and place it in the main project directory using this link:
+Downlowd our CleftGAN pretrained model and place it in the main project directory using this link:
 https://drive.google.com/file/d/1F4cCSnKyv2CwShh5R9wqvlQ9ccPsMdo7/view?usp=sharing
 
 python main.py --nimg=100 --output_path='./faces' --show_images=True
