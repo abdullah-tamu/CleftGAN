@@ -27,4 +27,3 @@ If you find this implementation helpful in your research, please also consider c
   year={2023},
   publisher={Public Library of Science San Francisco, CA USA}
 }
-```
