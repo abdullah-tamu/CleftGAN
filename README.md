@@ -8,8 +8,9 @@ for the requrements.
 Also, please install opencv
 
 # Usage:
+```
 python main.py --nimg=100 --output_path='./faces' --show_images=True
-
+```
 # Citation
 
 
