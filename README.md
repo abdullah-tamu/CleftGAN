@@ -11,7 +11,7 @@ Also, please install opencv
 python main.py --nimg=100 --output_path='./faces' --show_images=True
 
 # Citation
-```
+
 
 
 If you find this implementation helpful in your research, please also consider citing:
